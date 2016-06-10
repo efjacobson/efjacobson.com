@@ -8,9 +8,17 @@ h1, h2, h3, h4, h5 {
   text-transform: uppercase;
 }
 
+h5 {
+  font-size: 1.1em;
+}
+
 p {
   font-family: 'Roboto', sans-serif;
   font-size: 1.2em;
+}
+
+.section-header > h4 {
+  margin-top: 13px;
 }
 
 .main {
@@ -20,7 +28,6 @@ p {
 .container {
   background-color: white;
 }
-
 
 .section-header {
   display: flex;
@@ -52,12 +59,13 @@ p {
 .profile-header {
   background-color: rgb(53,135,154);
   color: white;
-  padding: 5em 0 3em 0;
+  padding: 4em 0 3em 0;
 }
 
 .profile-body {
   background-color: rgb(66,168,192);
   padding: 1em;
+  margin-bottom: 1em;
 }
 
 .profile-body,
@@ -71,4 +79,33 @@ p {
 
 .job-title {
   text-transform: uppercase;
+}
+
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+		.profile-picture {
+			width: 12em;	
+		}
+		
+		.profile-header {
+			padding: 2em 0 3em 0;
+		}
+}
+
+@media screen and (max-width: 767px) {
+		h1, h2, h3, h4, h5, p {
+			padding: 0 0.5em;
+		}
+		body {
+			padding: 0;
+		}
+		.main {
+			padding: 1em 0;
+		}
+		.profile-header {
+				padding: 2em 0 1em 0;
+		}
+	
+		.profile-picture {
+			width: 13em;
+		}
 }

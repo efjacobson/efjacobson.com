@@ -48,6 +48,10 @@
                 <i class="icon-contact fa fa-github-square fa-2x"></i>
                 <h4><a href="https://github.com/efjacobson">github</a></h4>
               </div>
+              <div class="section-header">
+                <i class="icon-contact fa fa-check-square fa-2x"></i>
+                <h4><a href="http://efjacobson.com/files/Eric-Jacobson-Resume_Full-Stack-Web-Developer.pdf">pdf resume</a></h4>
+              </div>
             </div>
           </div>
           <div class="col-sm-8 col-sm-pull-4 col-md-8 col-md-pull-4">
@@ -81,15 +85,15 @@
                 <h4>2016 - Present</h4>
               </div>              
             </div>
-            <h5 class="job-after-first-title">HealSwift, Los Angeles CA</h5>
-            <p>Worked as a full-stack developer for HealSwift (<a href="https://healswift.azurewebsites.net/">healswift.azurewebsites.net</a>), a healthcare startup dedicated to matching patients with doctors using a proprietary multi-parameter seach algorithm. Patients can manage providers and hospitals, submit reviews, and contact doctors by phone, email, and SMS. Providers can verify their profiles publish additional information not found in our data-gathering process.</p>
+            <h5>HealSwift, Los Angeles CA</h5>
+            <p>Worked as a full-stack developer for HealSwift (<a href="https://healswift.azurewebsites.net/">healswift.azurewebsites.net</a>), a healthcare startup dedicated to matching patients with doctors using a proprietary multi-parameter search algorithm. Patients can manage providers and hospitals, submit reviews, and contact doctors by phone, email, and SMS. Providers can verify their profiles and publish additional information not found in our data-gathering process.</p>
             <p>HealSwift is a Hybrid SPA/ASP.NET MVC web application backed by Microsoft SQL Server and Elastic, exposed through a RESTful Web API. The web client leverages AngularJS and responsive design for desktop, tablets, and mobile devices.</p>
             <p>Employed an agile development process with daily standups and Trello for task management.</p>
             <p>Technologies include Elastic, Transact-SQL, SQL Server Management Studio, C#, Visual Studio 2015, Team Foundation Server (TFS), MVC 5, MVC Attribute Routing, WebApi 2.0, AJAX, JSON Serialization, JSON Lint, jQuery, AngularJS, Bootstrap 3.0, CSS3, HTML5, Amazon Web Services (AWS S3) and Google Maps API.</p>
             <hr/>
             <div class="row job-title">
               <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
-                <h4>Front End Web Developer</h4>
+                <h4>Full Stack Web Developer</h4>
                 <h4>Marketing Manager</h4>
                 <h4>Inventory Manager</h4>
               </div>
