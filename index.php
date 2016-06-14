@@ -86,7 +86,7 @@
               </div>              
             </div>
             <h5>HealSwift, Los Angeles CA</h5>
-            <p>Worked as a full-stack developer for HealSwift (<a href="https://healswift.azurewebsites.net/">healswift.azurewebsites.net</a>), a healthcare startup dedicated to matching patients with doctors using a proprietary multi-parameter search algorithm. Patients can manage providers and hospitals, submit reviews, and contact doctors by phone, email, and SMS. Providers can verify their profiles and publish additional information not found in our data-gathering process.</p>
+            <p>Worked as a full-stack developer for HealSwift (<a href="https://healswift.azurewebsites.net/">healswift.azurewebsites.net</a>), a healthtech startup dedicated to matching patients with doctors using a proprietary multi-parameter search algorithm. Patients can manage providers and hospitals, submit reviews, and contact doctors by phone, email, and SMS. Providers can verify their profiles and publish additional information not found in our data-gathering process.</p>
             <p>HealSwift is a Hybrid SPA/ASP.NET MVC web application backed by Microsoft SQL Server and Elastic, exposed through a RESTful Web API. The web client leverages AngularJS and responsive design for desktop, tablets, and mobile devices.</p>
             <p>Employed an agile development process with daily standups and Trello for task management.</p>
             <p>Technologies include Elastic, Transact-SQL, SQL Server Management Studio, C#, Visual Studio 2015, Team Foundation Server (TFS), MVC 5, MVC Attribute Routing, WebApi 2.0, AJAX, JSON Serialization, JSON Lint, jQuery, AngularJS, Bootstrap 3.0, CSS3, HTML5, Amazon Web Services (AWS S3) and Google Maps API.</p>
