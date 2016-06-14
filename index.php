@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/favicon.ico">
 
-    <title>Eric Jacobson</title>
+    <title>Eric Jacobson - Full Stack Web Developer</title>
     
     <?php
       $path = $_SERVER['DOCUMENT_ROOT'];
@@ -34,7 +34,7 @@
             <div class="profile-body">
               <div class="section-header">
                 <i class="icon-contact fa fa-phone-square fa-2x"></i>
-                <h4>626.269.9561</h4>
+                <h4><a class="tel" href="tel:626-269-9651">626.269.9651</a></h4>
               </div>
               <div class="section-header">
                 <i class="icon-contact fa fa-envelope-square fa-2x"></i>
