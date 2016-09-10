@@ -65,6 +65,23 @@
             <hr/>
             <div class="section-header">
               <div class="fa-holder text-center">
+                <i class="fa fa-trophy fa-3x"></i>
+              </div>
+              <h3>Achievements</h3>
+            </div>
+            <div class="row job-title">
+              <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+                <h4>Lead Web Developer</h4>
+              </div>
+              <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
+                <h4 class="timeline">09.2016</h4>
+              </div>              
+            </div>
+            <h5>First Place Winner - vetsHack Hackathon</h5>
+            <p>I competed in the September 2016 vetsHack hackathon (<a href="http://vetshack.us/">vetshack.us</a>), an event organized to find novel solutions to modern issues that veterans face, including homelessness, lack of educational and employment opportunities, and lack of resources in entrepreneurship and social and emotional health. Knowing that asking for and receiving help can be very difficult, my team created VetChat, a platform for veterans to reach out to other veterans anonymously, with no barrier to entry. We won first place and are currently hard at work building out our idea into VetChat 1.0.</p>
+            <hr/>
+            <div class="section-header">
+              <div class="fa-holder text-center">
                 <i class="fa fa-cog fa-3x"></i>
               </div>
               <h3>Skills</h3>
@@ -78,27 +95,40 @@
               <h3>Experience</h3>
             </div>
             <div class="row job-title">
-              <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+              <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+                <h4>Senior Front End Web Developer</h4>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <h4 class="timeline">07.2016 - Present</h4>
+              </div>              
+            </div>
+            <h5>Destini Locators, Sherman Oaks CA</h5>
+            <p>Develop custom iterations of Destini products that fit seamlessly into client’s brand websites.</p>
+            <p>Continually focus on new features and improvements for the Destini engine.</p>
+            <p>Ensure customer satisfaction in all aspects of the Destini product including data feeds, locator implementation, design consistency, and team response.</p>
+            <hr/>
+            <div class="row job-title">
+              <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
                 <h4>Full Stack Web Developer</h4>
               </div>
-              <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
-                <h4>2016 - Present</h4>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <h4 class="timeline">01.2016 - 07.2016</h4>
               </div>              
             </div>
             <h5>HealSwift, Los Angeles CA</h5>
-            <p>Worked as a full-stack developer for HealSwift (<a href="https://healswift.azurewebsites.net/">healswift.azurewebsites.net</a>), a healthtech startup dedicated to matching patients with doctors using a proprietary multi-parameter search algorithm. Patients can manage providers and hospitals, submit reviews, and contact doctors by phone, email, and SMS. Providers can verify their profiles and publish additional information not found in our data-gathering process.</p>
+            <p>Worked as a full-stack developer for HealSwift (<a href="https://www.healswift.com/">healswift.com</a>), a healthtech startup dedicated to matching patients with doctors using a proprietary multi-parameter search algorithm. Patients can manage providers and hospitals, submit reviews, and contact doctors by phone, email, and SMS. Providers can verify their profiles and publish additional information not found in our data-gathering process.</p>
             <p>HealSwift is a Hybrid SPA/ASP.NET MVC web application backed by Microsoft SQL Server and Elastic, exposed through a RESTful Web API. The web client leverages AngularJS and responsive design for desktop, tablets, and mobile devices.</p>
             <p>Employed an agile development process with daily standups and Trello for task management.</p>
             <p>Technologies include Elastic, Transact-SQL, SQL Server Management Studio, C#, Visual Studio 2015, Team Foundation Server (TFS), MVC 5, MVC Attribute Routing, WebApi 2.0, AJAX, JSON Serialization, JSON Lint, jQuery, AngularJS, Bootstrap 3.0, CSS3, HTML5, Amazon Web Services (AWS S3) and Google Maps API.</p>
             <hr/>
             <div class="row job-title">
-              <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+              <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
                 <h4>Full Stack Web Developer</h4>
                 <h4>Marketing Manager</h4>
                 <h4>Inventory Manager</h4>
               </div>
-              <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
-                <h4>04.2012 - 04.2016</h4>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <h4 class="timeline">04.2012 - 04.2016</h4>
               </div>         
             </div>
             <h5 class="job-location">Bliss Tubs, Pasadena CA</h5>
